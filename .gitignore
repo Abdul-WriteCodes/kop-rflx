@@ -1,0 +1,10 @@
+*.db
+.states
+assets/external/
+__pycache__/
+*.py[cod]
+.web
+.env
+.venv
+.secrets
+service_account.json
